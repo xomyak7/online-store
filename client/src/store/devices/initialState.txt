@@ -1,0 +1,58 @@
+types: [
+    { id: 1, name: "Холодильники" },
+    { id: 2, name: "Смартфоны" },
+    { id: 3, name: "Ноутбуки" },
+    { id: 4, name: "Телевизоры" },
+    ]
+
+brands: [
+    { id: 1, name: "Samsung" },
+    { id: 2, name: "Apple" },
+    { id: 3, name: "Lenovo" },
+    { id: 4, name: "Asus" },
+]
+
+devices: [
+    {
+      id: 1,
+      name: "Iphone 12 pro",
+      price: 25000,
+      rating: 5,
+      img: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-stainless-steel-gold_10132020_inline.jpg.large.jpg",
+    },
+    {
+      id: 2,
+      name: "Iphone 12 pro",
+      price: 25000,
+      rating: 5,
+      img: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-stainless-steel-gold_10132020_inline.jpg.large.jpg",
+    },
+    {
+      id: 3,
+      name: "Iphone 12 pro",
+      price: 25000,
+      rating: 5,
+      img: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-stainless-steel-gold_10132020_inline.jpg.large.jpg",
+    },
+    {
+      id: 4,
+      name: "Iphone 12 pro",
+      price: 25000,
+      rating: 5,
+      img: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-stainless-steel-gold_10132020_inline.jpg.large.jpg",
+    },
+    {
+      id: 5,
+      name: "Iphone 12 pro",
+      price: 25000,
+      rating: 5,
+      img: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-stainless-steel-gold_10132020_inline.jpg.large.jpg",
+    },
+    {
+      id: 6,
+      name: "Iphone 12 pro",
+      price: 25000,
+      rating: 5,
+      img: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone12pro-stainless-steel-gold_10132020_inline.jpg.large.jpg",
+    },
+]
